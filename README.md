@@ -1,6 +1,5 @@
 # kaonasi`s Skin
-僕が使っているCustomizable Player Models( https://www.curseforge.com/minecraft/mc-mods/custom-player-models )と  
-Figura( https://www.curseforge.com/minecraft/mc-mods/figura )用のスキンです。  
+僕が使っている[Customizable Player Models](https://www.curseforge.com/minecraft/mc-mods/custom-player-models)と[Figura](https://www.curseforge.com/minecraft/mc-mods/figura)用のスキンです。  
 Figuraの場合はFiguraのボタンからスキンを選んでください。  
 Customizable Player Modelsの場合はplayer_model_cpm.cpmprojectをExportしてください。  
 両方併用することも可能です  
