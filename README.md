@@ -12,4 +12,4 @@ Customizable Player Modelsの場合はplayer_model_cpm.cpmprojectをExportして
     - 霧雨魔理沙(kirisame_marisa)
     - 十六夜咲夜(izayoi_sakuya)
 - 東西Project-異空郷-
-    - クランベリー・ディザイア(cramberry_desire0)
+    - クランベリー・ディザイア(cramberry_desire)
