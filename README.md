@@ -7,7 +7,7 @@ Customizable Player Modelsの場合はplayer_model_cpm.cpmprojectをLoadしてEx
 Skinでエクスポートすると、このMod(orこのMod用のプラグイン)が入っていないサーバーでも使うことができます。  
 この場合はエクスポートしたファイルをMinercraft Launcherのスキンから選択してください。  
 com.pngを使ってもいいですが、そうするとバニラの人から見えるスキンが僕のスキンになります。  
-Modelでエクスポートすると、Modまたはプラグインが入っていないと使えませんが、選択画面から選べるようになります。
+Modelでエクスポートすると、Modまたはプラグインが入っていないと使えませんが、モデル選択画面で選べるようになります。
 
 Figura、Customizable Player Models両方併用することも可能です  
 ## スキン一覧
