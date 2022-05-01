@@ -22,3 +22,5 @@ Figura、Customizable Player Models両方併用することも可能です
     - クランベリー・ディザイア(cramberry_desire)
 - その他
   - 古明地フランさん(komeiji_fran)
+
+※これらのスキンは全てAlex(Slim)用です
