@@ -23,4 +23,7 @@ Figura、Customizable Player Models両方併用することも可能です
 - その他
   - 古明地フランさん(komeiji_fran)
 
-※これらのスキンは全てAlex(Slim)用です
+※これらのスキンは全てAlex(Slim)用です  
+※スキンの本人以外はクレジット表記お願いします。  
+&emsp;最悪なくても見ればわかるけど()  
+&emsp;使用報告してくれたら喜びます！
