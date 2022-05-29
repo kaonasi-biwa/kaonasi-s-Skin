@@ -1,13 +1,10 @@
 # kaonasi`s Skin
 僕が使っている[Customizable Player Models](https://www.curseforge.com/minecraft/mc-mods/custom-player-models)と[Figura](https://www.curseforge.com/minecraft/mc-mods/figura)用のスキンです。  
-Figuraの場合はFiguraのボタンからスキンを選んでください。  
+Figuraの場合はこのプロジェクトをダウンロードして.minecraft/figura/model_filesに導入し、Figuraのボタンからスキンを選んでください。  
 マルチで使いたい場合はアップロードしてください。  
 
-Customizable Player Modelsの場合はplayer_model_cpm.cpmprojectをLoadしてExportしてください。  
-Skinでエクスポートすると、このMod(orこのMod用のプラグイン)が入っていないサーバーでも使うことができます。  
-この場合はエクスポートしたファイルをMinercraft Launcherのスキンから選択してください。  
-com.pngを使ってもいいですが、そうするとバニラの人から見えるスキンが僕のスキンになります。  
-Modelでエクスポートすると、Modまたはプラグインが入っていないと使えませんが、モデル選択画面で選べるようになります。
+Customizable Player Modelsの場合はcpm.pngをMinecraft Launcherで普通のスキンと同じように読み込んでください。  
+他の方法もありますが、ここでは省略します。  
 
 Figura、Customizable Player Models両方併用することも可能です  
 ## スキン一覧
@@ -22,6 +19,7 @@ Figura、Customizable Player Models両方併用することも可能です
     - クランベリー・ディザイア(cramberry_desire)
 - その他
   - 古明地フランさん(komeiji_fran)
+  - ばぐちゃんさん(bagu_chan)
 
 ※これらのスキンは全てAlex(Slim)用です  
 ※スキンの本人以外はクレジット表記お願いします。  
