@@ -6,6 +6,9 @@ Figuraの場合はこのプロジェクトをダウンロードして.minecraft/
 Customizable Player Modelsの場合はcpm.pngをMinecraft Launcherで普通のスキンと同じように読み込んでください。  
 他の方法もありますが、ここでは省略します。  
 
+vanilla.pngを読み込めばCustomizable Player Modelsを導入していてもバニラ用のスキンが表示されます。  
+正直cpm.pngを使わずにvanilla.pngを使う理由はほぼないと思いますけど()  
+
 Figura、Customizable Player Models両方併用することも可能です  
 ## スキン一覧
 - kaonasi_biwa
