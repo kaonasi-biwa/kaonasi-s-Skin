@@ -11,16 +11,18 @@ vanilla.pngを読み込めばCustomizable Player Modelsを導入していても�
 
 Figura、Customizable Player Models両方併用することも可能です  
 ## スキン一覧
-- kaonasi_biwa
+- kaonasi_biwa [kaonasi_biwa]
   - 本来のkaonasi_biwa(kaonasi_biwa)
   - 羽生えたkaonasi_biwa(kaonasi_biwa_flandre)
-- 東方Project
+- 東方Project [Touhou]
     - フランドール・スカーレット(flandre_scarlet)
     - 霧雨魔理沙(kirisame_marisa)
     - 十六夜咲夜(izayoi_sakuya)
-- 東西Project-異空郷-
+- 東方Project(旧作) [Touhou_old]
+    - 博麗靈夢(hakurei_reimu)
+- 東西Project-異空郷- [Ikuukyou]
     - クランベリー・ディザイア(cramberry_desire)
-- その他
+- その他 [Other]
   - 古明地フランさん(komeiji_fran)
   - ばぐちゃんさん(bagu_chan)
 
