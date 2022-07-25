@@ -18,6 +18,8 @@ Figura、Customizable Player Models両方併用することも可能です
     - フランドール・スカーレット(flandre_scarlet)
     - 霧雨魔理沙(kirisame_marisa)
     - 十六夜咲夜(izayoi_sakuya)
+    - 洩矢諏訪子(moriya_suwako)
+      - 洩矢諏訪子 & ミャクミャク(moriya_suwako_and_myaku_myaku_sama)
 - 東方Project(旧作) [Touhou_old]
     - 博麗靈夢(hakurei_reimu)
 - 東西Project-異空郷- [Ikuukyou]
