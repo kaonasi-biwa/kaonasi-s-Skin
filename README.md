@@ -27,6 +27,7 @@ Figura、Customizable Player Models両方併用することも可能です
 - その他 [Other]
   - 古明地フランさん(komeiji_fran)
   - ばぐちゃんさん(bagu_chan)
+  - 星崎かなけさん(hoshizaki_kanake)
 
 ※これらのスキンは全てAlex(Slim)用です  
 ※スキンの本人以外はクレジット表記お願いします。  
